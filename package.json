@@ -1,0 +1,17 @@
+{
+  "name": "capturefind",
+  "version": "1.0.0",
+  "description": "Simple blog to capture short thoughts in descending order.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js --reload --experimental-modules",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "capturefind"
+  },
+  "author": "Julia Tseng",
+  "license": "ISC",
+  "type": "module"
+}
